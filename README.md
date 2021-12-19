@@ -14,6 +14,13 @@ The software system has the following subsystems:
 - Transaction
 - Logout/Exit
 
+### EXECUTION
+To execute this code you need to install the following libraries:
+- RSA <br>
+pip install rsa
+- STDIOMASK <br>
+pip install stdiomask
+
 ### CONCLUSION
 The main aim of this project is to enhance security of bank using RSA algorithm and make
 it as secure as possible so that it is not easily broken by intruders and our information
